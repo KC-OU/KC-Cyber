@@ -13,4 +13,28 @@ Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most cr
 
 # OWASP Top 10 - 2021 - Notes
 
-This room will cover
+
+This room will cover:
+
+![OWASP](/images/owasp.png#floatright)
+
+1. Broken Access Control
+2. Cryptographic Failures
+3. Injection
+4. Insecure Design
+5. Security Misconfiguration
+6. Vulnerable and Outdated Components
+7. Indentification and Authentication Failures
+8. Software and Data Integrity Failures
+9. Security Logging & Monitoring Failures
+10. Server-side Regurest Forgery (SSRF)
+
+## 1. Broken Access Control
+Most websites have admin only sections like shops, portals and more. If a vistor acesses a admin only page or section, without **permission** is called broken access.
+
+A regular vistor, who has regular acesss to protected pages can lead to the following:
+
+- being able to view **sensitive information** from other users
+- Accessing **unauthorised** functionality 
+
+Simply put, Broken Access controls allows attackers to bypass **Authorisation**, but allows them access to **sensitive data**, like bank details, personal information or Proforming tasks that they are not allow to do. 

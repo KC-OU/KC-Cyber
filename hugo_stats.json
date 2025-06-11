@@ -8,7 +8,6 @@
       "br",
       "button",
       "div",
-      "em",
       "footer",
       "h1",
       "h2",
@@ -17,6 +16,7 @@
       "hr",
       "html",
       "i",
+      "img",
       "input",
       "kbd",
       "li",
@@ -24,6 +24,7 @@
       "main",
       "meta",
       "nav",
+      "ol",
       "p",
       "script",
       "section",
@@ -195,8 +196,8 @@
       "z-50"
     ],
     "ids": [
+      "1-broken-access-control",
       "content",
-      "introduction",
       "main-content",
       "owasp-top-10---2021---notes",
       "posts",
