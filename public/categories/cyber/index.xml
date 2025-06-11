@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KC-Cyber-Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on KC-Cyber-Site</description>
+    <title>Cyber on KC-Cyber-Site</title>
+    <link>http://localhost:1313/categories/cyber/</link>
+    <description>Recent content in Cyber on KC-Cyber-Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 May 2025 10:42:17 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/cyber/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OWASP Top 10 - 2021 - Notes</title>
       <link>http://localhost:1313/posts/owasp_top_10_2021/room-notes/</link>

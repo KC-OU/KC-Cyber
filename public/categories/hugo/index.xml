@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KC-Cyber-Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on KC-Cyber-Site</description>
+    <title>Hugo on KC-Cyber-Site</title>
+    <link>http://localhost:1313/categories/hugo/</link>
+    <description>Recent content in Hugo on KC-Cyber-Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 May 2025 10:42:17 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OWASP Top 10 - 2021 - Notes</title>
       <link>http://localhost:1313/posts/owasp_top_10_2021/room-notes/</link>
       <pubDate>Thu, 29 May 2025 10:42:17 -0400</pubDate>
       <guid>http://localhost:1313/posts/owasp_top_10_2021/room-notes/</guid>
-      <description>&lt;p&gt;Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks.&lt;/p&gt;&#xA;&lt;h1 id=&#34;owasp-top-10---2021---notes&#34;&gt;OWASP Top 10 - 2021 - Notes&lt;/h1&gt;&#xA;&lt;p&gt;This room will cover&lt;/p&gt;</description>
+      <description></description>
     </item>
   </channel>
 </rss>

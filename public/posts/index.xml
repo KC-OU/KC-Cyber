@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on KC-Cyber-Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on KC-Cyber-Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <managingEditor>admin@example.org (Author)</managingEditor>
-    <webMaster>admin@example.org (Author)</webMaster>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 May 2025 10:42:17 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP Top 10 - 2021 - Notes</title>
+      <link>http://localhost:1313/posts/owasp_top_10_2021/room-notes/</link>
+      <pubDate>Thu, 29 May 2025 10:42:17 -0400</pubDate>
+      <guid>http://localhost:1313/posts/owasp_top_10_2021/room-notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test Site</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &#xA;&lt;a href=&#34;https://gohugo.io&#34;&#xA;   &#xA;     target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&#xA;   &gt;&#xA;   Hugo&#xA;&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

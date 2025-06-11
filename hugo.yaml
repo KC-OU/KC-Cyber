@@ -6,20 +6,31 @@ params:
   logo:
    #image: images/logo.svg #LOGO takes precedence over title
     title: KC Cyber Learning Site
-  copyright: example.org.  Some rights reserved.
+ # copyright: example.org.  Some rights reserved.
   mainSections: ['posts']
-  author:
-    name: "Author"
-    bio: "Self Hosting Enthusiast."
-    email: "admin@example.org"
-    avatar: ""
-    website: "https://example.org"
+ # author:
+ #   name: "Author"
+ #   bio: "Self Hosting Enthusiast."
+ #   email: "admin@example.org"
+ #   avatar: ""
+ #   website: "https://example.org"
 
   sidebar:
     enable: true # Default is false
-    showCounts: false
+    showCounts: true
     recentsCount: 6 # Default is 5
     widgets: ['recent', 'categories', 'tags', 'social']
+outputs:
+  home: ['html', 'rss', 'json']
+
+
+pagination:
+  pagerSize: 8
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 # Refer to this link https://gohugo.io/functions/css/tailwindcss/  
 build:
