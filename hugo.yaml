@@ -23,14 +23,22 @@ params:
 outputs:
   home: ['html', 'rss', 'json']
 
+tableOfContents: true
 
 pagination:
-  pagerSize: 8
+  pagerSize: 4
+
+
 
 markup:
   goldmark:
     renderer:
       unsafe: true
+  tableOfContents:
+    endLevel: 8
+    ordered: false
+    startLevel: 2
+
 
 # Refer to this link https://gohugo.io/functions/css/tailwindcss/  
 build:

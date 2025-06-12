@@ -16,7 +16,7 @@ dir="ltr">
   localStorage.theme === "dark" ||
     (!("theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches),
 );
-</script><link rel="stylesheet" href="/css/main.1d5f0d4df335a74463325dcb05bafa663b89c4d084409a1dfcdd8347edcdc401.css" integrity="sha256-HV8NTfM1p0RjMl3LBbr6ZjuJxNCEQJod/N2DR&#43;3NxAE=" crossorigin="anonymous"></head>
+</script><link rel="stylesheet" href="/css/main.5e5aadf2ecd4486aada6c1c1af7ff4e63d8b9920646e3669ff37d493d5cb2cac.css" integrity="sha256-Xlqt8uzUSGqtpsHBr3/05j2LmSBkbjZp/zfUk9XLLKw=" crossorigin="anonymous"></head>
 
 <body class="flex flex-col text-gray-900 dark:text-white bg-white dark:bg-gray-900"><header class="w-full sticky top-0 z-50 bg-gray-100 dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700">
   <div class="px-4 py-2 lg:px-6">
@@ -58,7 +58,7 @@ dir="ltr">
     </div>    
   </div>
 </header><main id="main-content" class="w-full" role="main">
-    <div class="mx-auto max-w-5xl w-full py-6 px-4 sm:px-6 lg:px-8"><div class="grid grid-cols-1 lg:grid-cols-[1fr]"><section id="posts" class="space-y-2"><h1 class="text-3xl font-bold mb-2">OWASP Top 10 - 2021 - Notes</h1>
+    <div class="mx-auto max-w-5xl w-full py-6 px-4 sm:px-6 lg:px-8"><div class="grid grid-cols-1 lg:grid-cols-[1fr_30%] gap-6"><section id="posts" class="space-y-2"><h1 class="text-3xl font-bold mb-2">OWASP Top 10 - 2021 - Notes</h1>
 
 <div class="flex items-center gap-4 text-sm text-gray-500 dark:text-gray-400 mb-6">
   <div class="flex items-center gap-1"><i class="fas fa-clock"></i>1 Mins read
@@ -86,7 +86,7 @@ dir="ltr">
     
   </div>
 </div><article class="prose dark:prose-invert max-w-none"><p>Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks.</p>
-<h1 id="owasp-top-10---2021---notes">OWASP Top 10 - 2021 - Notes</h1>
+<h2 id="owasp-top-10---2021---notes">OWASP Top 10 - 2021 - Notes</h2>
 <p>This room will cover:</p>
 <p><img src="/images/owasp.png#floatright" alt="OWASP"></p>
 <ol>
@@ -109,6 +109,8 @@ dir="ltr">
 <li>Accessing <strong>unauthorised</strong> functionality</li>
 </ul>
 <p>Simply put, Broken Access controls allows attackers to bypass <strong>Authorisation</strong>, but allows them access to <strong>sensitive data</strong>, like bank details, personal information or Proforming tasks that they are not allow to do.</p>
+<h3 id="insecure-direct-object-referances">Insecure Direct Object Referances</h3>
+<p>IDOR</p>
 </article>
 <br>
     <div class="flex flex-wrap items-center gap-2">
@@ -120,7 +122,32 @@ dir="ltr">
         OWASP
       </a>
     </div>
-<br></section></div>
+<br></section><aside id="sidebar-right" aria-label="Sidebar"
+        class="hidden lg:block sticky  rounded shadow   
+               top-16 max-h-[calc(100vh-6rem)] "><div class="space-y-2">
+        <div class="px-2"><div id="toc-widget" class="bg-gray-100 dark:bg-gray-700 rounded-lg p-4 shadow mt-2">
+        <span class="flex items-center gap-2">
+      <i class="fas fa-table-list"></i>
+        <h2 class="text-md font-semibold border-b border-gray-300 dark:border-gray-600">CONTENTS</h2>
+    </span>
+        
+        <hr class="border-t border-2 border-blue-500 dark:border-blue-400 mb-2">
+        <nav id="toc-list" class="text-sm">
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#owasp-top-10---2021---notes">OWASP Top 10 - 2021 - Notes</a></li>
+    <li><a href="#1-broken-access-control">1. Broken Access Control</a>
+      <ul>
+        <li><a href="#insecure-direct-object-referances">Insecure Direct Object Referances</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+        </div>
+    </div></div></div>
+
+
+</aside></div>
     </div> 
 </main>
   <footer class="border-t border-gray-200 dark:border-gray-700"><div class="flex flex-row text-xs text-gray-500 dark:text-gray-400 items-center px-4 lg:px-6">
