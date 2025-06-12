@@ -42,4 +42,6 @@ Simply put, Broken Access controls allows attackers to bypass **Authorisation**,
 
 ### Insecure Direct Object Referances
 
-IDOR
+IDOR or Insecure Direct Object referance refers to an access to control **vulunabilites** were you can access resources you wouldn't ordinarily be able to see.
+
+This occurs when the programmer exposses a Direct Object Referances which is jusr a identifier that refers to specific objects within the server by object, we could mean a file, a user, a bank account in a banking application, or anything really.
