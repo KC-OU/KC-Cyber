@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KC-Cyber-Site</title>
-    <link>https://cyber.kccyber.cloud/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on KC-Cyber-Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 May 2025 10:42:17 -0400</lastBuildDate>
-    <atom:link href="https://cyber.kccyber.cloud/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OWASP Top 10 - 2021 - Notes</title>
-      <link>https://cyber.kccyber.cloud/posts/owasp_top_10_2021/room-notes/</link>
+      <link>http://localhost:1313/posts/owasp_top_10_2021/room-notes/</link>
       <pubDate>Thu, 29 May 2025 10:42:17 -0400</pubDate>
-      <guid>https://cyber.kccyber.cloud/posts/owasp_top_10_2021/room-notes/</guid>
-      <description>&lt;p&gt;Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;owasp-top-10---2021---notes&#34;&gt;OWASP Top 10 - 2021 - Notes&lt;/h2&gt;&#xA;&lt;p&gt;This room will cover:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://cyber.kccyber.cloud/images/owasp.png#floatright&#34; alt=&#34;OWASP&#34;&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Broken Access Control&lt;/li&gt;&#xA;&lt;li&gt;Cryptographic Failures&lt;/li&gt;&#xA;&lt;li&gt;Injection&lt;/li&gt;&#xA;&lt;li&gt;Insecure Design&lt;/li&gt;&#xA;&lt;li&gt;Security Misconfiguration&lt;/li&gt;&#xA;&lt;li&gt;Vulnerable and Outdated Components&lt;/li&gt;&#xA;&lt;li&gt;Indentification and Authentication Failures&lt;/li&gt;&#xA;&lt;li&gt;Software and Data Integrity Failures&lt;/li&gt;&#xA;&lt;li&gt;Security Logging &amp;amp; Monitoring Failures&lt;/li&gt;&#xA;&lt;li&gt;Server-side Regurest Forgery (SSRF)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;1-broken-access-control&#34;&gt;1. Broken Access Control&lt;/h2&gt;&#xA;&lt;p&gt;Most websites have admin only sections like shops, portals and more. If a vistor acesses a admin only page or section, without &lt;strong&gt;permission&lt;/strong&gt; is called broken access.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/owasp_top_10_2021/room-notes/</guid>
+      <description>&lt;p&gt;Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;owasp-top-10---2021---notes&#34;&gt;OWASP Top 10 - 2021 - Notes&lt;/h2&gt;&#xA;&lt;p&gt;This room will cover:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/owasp.png#floatright&#34; alt=&#34;OWASP&#34;&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Broken Access Control&lt;/li&gt;&#xA;&lt;li&gt;Cryptographic Failures&lt;/li&gt;&#xA;&lt;li&gt;Injection&lt;/li&gt;&#xA;&lt;li&gt;Insecure Design&lt;/li&gt;&#xA;&lt;li&gt;Security Misconfiguration&lt;/li&gt;&#xA;&lt;li&gt;Vulnerable and Outdated Components&lt;/li&gt;&#xA;&lt;li&gt;Indentification and Authentication Failures&lt;/li&gt;&#xA;&lt;li&gt;Software and Data Integrity Failures&lt;/li&gt;&#xA;&lt;li&gt;Security Logging &amp;amp; Monitoring Failures&lt;/li&gt;&#xA;&lt;li&gt;Server-side Regurest Forgery (SSRF)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;1-broken-access-control&#34;&gt;1. Broken Access Control&lt;/h2&gt;&#xA;&lt;p&gt;Most websites have admin only sections like shops, portals and more. If a vistor acesses a admin only page or section, without &lt;strong&gt;permission&lt;/strong&gt; is called broken access.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

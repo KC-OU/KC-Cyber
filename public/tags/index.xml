@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on KC-Cyber-Site</title>
-    <link>https://cyber.kccyber.cloud/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on KC-Cyber-Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 May 2025 10:42:17 -0400</lastBuildDate>
-    <atom:link href="https://cyber.kccyber.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OWASP</title>
-      <link>https://cyber.kccyber.cloud/tags/owasp/</link>
+      <link>http://localhost:1313/tags/owasp/</link>
       <pubDate>Thu, 29 May 2025 10:42:17 -0400</pubDate>
-      <guid>https://cyber.kccyber.cloud/tags/owasp/</guid>
+      <guid>http://localhost:1313/tags/owasp/</guid>
       <description></description>
     </item>
   </channel>
